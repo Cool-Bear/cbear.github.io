@@ -1,0 +1,29 @@
+{% if site.data.menu %}
+    <nav id="nav"><ul>
+
+    {% for memuitem in site.data.menu %}
+    <li>
+        <a href="{{ memuitem.link }}">{{ memuitem.title }}</a>
+        {% if memuitem.childs %}
+        <ul>
+            {% for memuitemL2 in memuitem.childs %}
+            <li>
+                <a href="{{ memuitemL2.link }}">{{ memuitemL2.title }}</a>
+                {% if memuitemL2.childs %}
+                <ul>
+                    {% for memuitemL3 in memuitemL2.childs %}
+                    <li>
+                        <a href="{{ memuitemL3.link }}">{{ memuitemL3.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </li>
+    {% endfor %}
+
+    </ul></nav>
+{% endif %}

@@ -1,0 +1,37 @@
+- title: 首页
+  link: "#"
+  childs:
+
+- title: 社区体育联盟
+  link: "#"
+  childs:
+    - title: 硬式棒球
+      link: "#"
+      childs:
+        - title: GHKDDL
+          link: "#"
+        - title: GHKDDL22222
+          link: "#"
+    - title: 慢投垒球
+      link: "#"
+      childs:
+
+- title: 拓展训练
+  link: "#"
+  childs:
+
+- title: 青少年训练
+  link: "#"
+  childs:
+
+- title: 官方动态
+  link: "#"
+  childs:
+
+- title: 关于我们
+  link: "#"
+  childs:
+
+- title: 加入我们
+  link: "#"
+  type: "button"

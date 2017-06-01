@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: leftsidebar
 title: Jekyll Introduction
 tagline: "jekyll"
 description: "jekyll tutorial"
