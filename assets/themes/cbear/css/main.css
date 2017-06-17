@@ -3194,7 +3194,7 @@
 /* Dropotron */
 
 	.dropotron {
-		background: rgba(39, 40, 51, 0.965);
+		background: #006666;/*rgba(39, 40, 51, 0.965);*/
 		border-radius: 4px;
 		box-shadow: 0 0.075em 0.35em 0 rgba(0, 0, 0, 0.125);
 		list-style: none;
@@ -3234,7 +3234,7 @@
 				-webkit-transform: rotate(45deg);
 				-ms-transform: rotate(45deg);
 				transform: rotate(45deg);
-				background: #272833;
+				background: #006666;/*#272833;*/
 				content: '';
 				display: block;
 				height: 1em;
@@ -3323,9 +3323,9 @@
 	}
 
 	body.landing #header {
-		background: transparent;
+		background: #003333;/*transparent;*/
 		box-shadow: none;
-		position: absolute;
+		position: fixed;/*absolute;*/
 	}
 
 /* Banner */

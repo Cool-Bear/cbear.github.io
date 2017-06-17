@@ -5,24 +5,54 @@
 - title: 社区体育联盟
   link: "#"
   childs:
+    - title: 慢投垒球
+      link: "#"
+      childs:
+    - title: 美式足球
+      link: "#"
+      childs:
+        #- title: GHKDDL
+        #  link: "#"
+        #- title: GHKDDL22222
+        #  link: "#"
     - title: 硬式棒球
       link: "#"
       childs:
-        - title: GHKDDL
-          link: "#"
-        - title: GHKDDL22222
-          link: "#"
-    - title: 慢投垒球
+    - title: 篮球
+      link: "#"
+      childs:
+    - title: 足球
+      link: "#"
+      childs:
+    - title: 冰球
       link: "#"
       childs:
 
 - title: 拓展训练
   link: "#"
   childs:
+    - title: 企业沙盘／内训
+      link: "#"
+      childs:
+    - title: 团队凝聚力／执行力
+      link: "#"
+      childs:
+    - title: 青少年素质拓展
+      link: "#"
+      childs:
 
-- title: 青少年训练
+- title: 活动策划
   link: "#"
   childs:
+    - title: 运动会组织策划
+      link: "#"
+      childs:
+    - title: 单项赛事组织策划
+      link: "#"
+      childs:
+    - title: 活动组织策划
+      link: "#"
+      childs:
 
 - title: 官方动态
   link: "#"
