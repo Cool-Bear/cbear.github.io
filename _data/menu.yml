@@ -11,10 +11,10 @@
     - title: 美式足球
       link: "#"
       childs:
-        #- title: GHKDDL
-        #  link: "#"
-        #- title: GHKDDL22222
-        #  link: "#"
+        - title: GHKDDL
+          link: "#"
+        - title: GHKDDL22222
+          link: "#"
     - title: 硬式棒球
       link: "#"
       childs:
